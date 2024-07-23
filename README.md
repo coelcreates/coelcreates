@@ -10,10 +10,7 @@
 
 🔭 Right now I’m working on... <br />
 
-**CoHaven**, a yoga studio website with user authentication, working calendar and scheduling systems, and a digital storefront integration. So far it uses React, Node.js, and Express.
-
-
-**The Dakota Project** is an app that uses GPT models to help break complex tasks down into more manageable pieces and create engaging assignments for productivity. So far it uses Figma for design, Bootstrap, and Node.js.
+**An Employee Management System** using C# scripts and mySQL to organize and manipulate employee information for the small yoga studio that I work at in real life! This is a collaborative project with @rgbreathe 🫶🏽
 
 
 **My personal portfolio.** I plan to build my portfolio mostly with React.
@@ -21,6 +18,8 @@
 🌱 Right now I'm learning... <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="45px"/>
+          
           
 
 📫 You can find me:
