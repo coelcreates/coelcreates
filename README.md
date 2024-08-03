@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-**I'm CoCo**, a full-stack self-taught developer from New York specializing in Javascript applications.
+**I'm CoCoe**, a full-stack self-taught developer from New York specializing in Javascript applications.
 
 🖥️ My stack is... <br>
 
