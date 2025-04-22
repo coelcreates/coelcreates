@@ -16,7 +16,6 @@ I'm a self-taught software developer passionate about quality, creativity, and b
 - 🎓 Harvard CS50: Introduction to Computer Science  
 - ✅ freeCodeCamp: JavaScript Algorithms & Data Structures  
 - 📘 UBC’s Systematic Program Design (Racket, functional thinking)  
-- 💻 IBM Fullstack Developer Certificate (in progress, no cert)  
 
 I believe in learning deeply—not just how to code, but how to design systems and write tests that make code trustworthy and resilient.
 
