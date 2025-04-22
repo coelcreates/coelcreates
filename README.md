@@ -4,7 +4,7 @@ I'm a self-taught software developer passionate about quality, creativity, and b
 
 ## 🛠️ Tech Stack & Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45px" height="45px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="45px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45px" height="45px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="45px" height="45px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="45px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="45px"/>
 
 - **Languages**: JavaScript (ES6+), Python, SQL, Java (learning)
 - **Frameworks & Libraries**: React, Express, Next.js, Node.js, MongoDB
