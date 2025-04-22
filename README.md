@@ -25,7 +25,7 @@
 📫 You can find me:
 On my portfolio site and also on social media:
 
-[LinkedIn](http://linked.com/in/courtnelliott)
+[LinkedIn](http://linkedin.com/in/courtnelliott)
 
 ⚡ Fun facts:
 I'm a certified yoga 🤸🏽‍♀️ and meditation 🧘🏽 instructor. 
