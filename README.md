@@ -30,7 +30,7 @@ I believe in learning deeply—not just how to code, but how to design systems a
 ## ♟️ Beyond Code
 
 - Chess enthusiast (ELO: 926, aiming for 1000+)
-- Yoga instructor exploring mobility + proprioception in design
+- 500hr CYT Yoga instructor exploring mobility + proprioception in movement
 - Passionate about accessible tech, ethical software, and internet and AI literacy.
 
 
