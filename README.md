@@ -31,7 +31,7 @@ I believe in learning deeply—not just how to code, but how to design systems a
 
 - Chess enthusiast (ELO: 926, aiming for 1000+)
 - Yoga instructor exploring mobility + proprioception in design
-- Passionate about accessible tech, ethical software, and mentorship
+- Passionate about accessible tech, ethical software, and internet and AI literacy.
 
 
 ## 📫 You can find me
